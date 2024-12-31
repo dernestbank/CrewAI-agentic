@@ -1,0 +1,4 @@
+.env
+env
+no_git/
+_pycache_/  
